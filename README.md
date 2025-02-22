@@ -9,3 +9,15 @@
 
 ![Coffee Shop sales](https://github.com/user-attachments/assets/fa614060-6863-4669-9342-694dc5fdb3b9)
 
+## Conclusion
+The Coffee Shop Sales Dashboard provides key insights into sales performance, customer footfall, and product preferences:
+
+- **Total Sales:** $6,98,812.33 with a Total Footfall of 1,49,116 customers.
+- **Peak Sales Hours:** Most orders occur between 8 AM - 10 AM, indicating high morning demand.
+- **Best-Selling Product Categories:** Coffee (39%), Bakery (28%), and Coffee Beans (12%).
+- **Size Preference:** Customers mostly prefer Regular (31%) and Large (30%) cup sizes.
+- **Top Store Locations:** Hell’s Kitchen generates the highest sales, followed by Astoria and Lower Manhattan.
+- **Top-Selling Products:** Barista Espresso, Brewed Black Tea, and Brewed Chai Tea lead in sales.
+- **Sales by Weekday:** Sales remain steady across weekdays, with a slight dip on Saturday.
+These insights can help optimize inventory, pricing strategies, and promotional campaigns to enhance sales and customer experience. 
+
