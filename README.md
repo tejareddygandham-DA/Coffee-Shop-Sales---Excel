@@ -19,5 +19,7 @@ The Coffee Shop Sales Dashboard provides key insights into sales performance, cu
 - **Top Store Locations:** Hell’s Kitchen generates the highest sales, followed by Astoria and Lower Manhattan.
 - **Top-Selling Products:** Barista Espresso, Brewed Black Tea, and Brewed Chai Tea lead in sales.
 - **Sales by Weekday:** Sales remain steady across weekdays, with a slight dip on Saturday.
+
+  
 These insights can help optimize inventory, pricing strategies, and promotional campaigns to enhance sales and customer experience. 
 
